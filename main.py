@@ -7,7 +7,7 @@ import gdal
 import requests
 import zipfile
 import numpy as np
-from Tasks import TCF_mapping as tasks
+from Tasks import TCFs_upscaling as tasks
 from PIL import Image
 
 ee.Initialize()
