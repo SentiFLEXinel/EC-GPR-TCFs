@@ -23,10 +23,10 @@ The code is formed by a set of Python functions
 
 <li> Calculate_Green function is the core of the GPR algorithm implemented in GEE </li>
 
-    </br>
+</br>
 <li></li> The map_loop function iterates over the defined temporal windows </li>
 
-    </br>
+</br>
 
 <p style="text-align:center;"> <img src="https://github.com/psreyes/EC-GPR-TCFs/blob/main/TCFs_Global.png"></p> 
 
