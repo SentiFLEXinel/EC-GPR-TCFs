@@ -7,16 +7,24 @@ Code: Pablo Reyes-Muñoz
 
 Workflow for upscaling TCFs from MCD15A3H and ERA-5 through Google Earth Engine, from the paper "Tower-to-global upscaling of terrestrial carbon fluxes driven by Copernicus ERA-5 and MODIS-LAI data".
 
-Please, download the source code available in this site (TCFs_upscaling / main).
+<ol style='list-style-type:disc'> 
+
+<li> Please, download the source code available in this site (TCFs_upscaling / main). </li>
+
+ <\br>
 
 The code is formed by a set of Python functions
 
-The compose_image function format the predictors input for the GPR function below
+ <\br>
 
-Calculate_Green function is the core of the GPR algorithm implemented in GEE
+<li> The compose_image function format the predictors input for the GPR function below </li>
+
+ <\br>
+
+<li> Calculate_Green function is the core of the GPR algorithm implemented in GEE </li>
 
     <\br>
-The map_loop function iterates over the defined temporal windows
+<li></li> The map_loop function iterates over the defined temporal windows </li>
 
     <\br>
 
