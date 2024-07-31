@@ -24,7 +24,7 @@ The code is formed by a set of Python functions
 <li> Calculate_Green function is the core of the GPR algorithm implemented in GEE </li>
 
 </br>
-<li></li> The map_loop function iterates over the defined temporal windows </li>
+<li>The map_loop function iterates over the defined temporal windows </li>
 
 </br>
 
