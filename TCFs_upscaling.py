@@ -29,6 +29,8 @@ Iterations = round(EndDate.difference(StartDate, 'day').getInfo()/timeStep)
 
 assetPath='projects/ee-user/assets/collection/'
 
+#Area of interest: Define in GEE:
+
 fc = ee.FeatureCollection("projects/ee-user/assets/AreaOfInterest")
 
 #region = fc.geometry()
