@@ -11,7 +11,7 @@ from os.path import isfile,join
 import numpy as np
 import netCDF4
 from netCDF4 import Dataset
-from Models import RECO_model_14VarsNoPANoLCTGFGUY as model_RECO
+from Models import GPP_model as model
 import ee
 PROJECTID = 'ee-pablosrmz'
 
